@@ -26,6 +26,12 @@ public class singleCreation {
 	public void transverser() {
 		
 	}
+	
+	node nd= new node() {
+		
+	}
+	
+	
 	}
 
 
